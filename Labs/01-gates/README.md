@@ -26,7 +26,8 @@ a můj repozitář pro předmět BPC-DE1 naleznete [ZDE](https://github.com/jan-
 
 Máme problém
 
-[alt text](/images/rce 1.png "Logo Title Text 1")
+(images/rce 1.png "Logo Title Text 1")
+
 ===> RCE 1
 
 který má tuto pravdivostní tabulku
