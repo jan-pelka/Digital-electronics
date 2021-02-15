@@ -144,6 +144,5 @@ end architecture dataflow;
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/Prubeh2.png)
 
-link na EDA Playground
-===> link (foto)
+řešení na Playground je [ZDE](https://edaplayground.com/x/TmW5)
 
