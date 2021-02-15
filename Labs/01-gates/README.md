@@ -142,8 +142,7 @@ begin
 end architecture dataflow;
 ```
 
-
-===> průběhy (foto)
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/Prubeh2.png)
 
 link na EDA Playground
 ===> link (foto)
