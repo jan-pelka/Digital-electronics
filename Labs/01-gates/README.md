@@ -54,8 +54,8 @@ výhradní hradlo NOR
 
 problém je řešen i za pomoci EDA Playground
 
-===> kod (vložení)
 
+Kód řešení:
 ```VHDL
 library ieee;               -- Standard library
 use ieee.std_logic_1164.all;-- Package for data types and logic operations
@@ -86,11 +86,10 @@ begin
 end architecture dataflow;
 ```
 
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/Prubeh1.png)
 
-===> průběhy (foto)
+řešení na Playground je [ZDE](https://edaplayground.com/x/Ud9_)
 
-link na EDA Playground
-===> link (link)
 
 
 
