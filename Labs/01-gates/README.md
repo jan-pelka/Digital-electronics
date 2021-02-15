@@ -9,16 +9,7 @@ Odkaz na můj GitHub je [ZDE](https://github.com/jan-pelka)
 a můj repozitář pro předmět BPC-DE1 naleznete [ZDE](https://github.com/jan-pelka/Digital-electronics)
 
 
-<!--  TOTO je blok s listem  -->
-<!-- 1. 1
-2. 2
-3. 3 -->
 
-<!--  TOTO je blok s check boxy  --> 
-<!-- - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item -->
 
 ### EDA Playground
 
@@ -27,8 +18,6 @@ a můj repozitář pro předmět BPC-DE1 naleznete [ZDE](https://github.com/jan-
 Máme problém
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%201.png "Logo Title Text 1")
-
-===> RCE 1
 
 který má tuto pravdivostní tabulku
 
@@ -47,7 +36,8 @@ který má tuto pravdivostní tabulku
 
 a tuto rovnici můžeme řešit i za výhradné pomoci hradla NAND
 
-===> RCE 2
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%202.png "Logo Title Text 1")
+
 ===> ukázka obvodu
 
 #### 3
