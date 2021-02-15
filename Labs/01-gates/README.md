@@ -21,7 +21,7 @@ Máme problém
 
 který má tuto pravdivostní tabulku
 
-| **c** | **b** |**a** | **f(c,b,a)** |
+| **a** | **b** |**c** | **f(c,b,a)** |
 | :-: | :-: | :-: | :-: |
 | 0 | 0 | 0 | 1 |
 | 0 | 0 | 1 | 0 |
