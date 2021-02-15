@@ -38,15 +38,17 @@ a tuto rovnici můžeme řešit i za výhradné pomoci hradla NAND
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%202.png "Logo Title Text 1")
 
-===> ukázka obvodu
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/NAND.jpg "Logo Title Text 1")
 
 #### 3
 
 výhradní hradlo NOR
 
 
-===> RCE 3
-===> ukázka obvodu
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%203.png "Logo Title Text 1")
+
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/NOR.png "Logo Title Text 1")
+
 
 #### 4
 
