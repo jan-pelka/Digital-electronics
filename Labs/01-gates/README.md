@@ -90,9 +90,24 @@ end architecture dataflow;
 
 #### 1
 
-máme ověřit zda platí distribuční zákony 
-budeme je ověřovat za pomocí prostředí
-EDA Playground 
+Ověření platnosti Distribučních zákonů budeme realizovat za pomoci EDA Playgroud
+
+uvedem příklad distribučních zákonů
+
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/distributives.png)
+
+a pravdivostní tabulka
+| **x** | **y** |**z** | **x·y+x·z** | **x·(y+z)** ||(x+y)·(x+z)|x+(y·z)|
+| :-: | :-: | :-: | :-: | :-: || :-: | :-: |
+| 0 | 0 | 0 | 0 | 0 || 0 | 0 |
+| 0 | 0 | 1 | 0 | 0 || 0 | 0 |
+| 0 | 1 | 0 | 0 | 0 || 0 | 0 |
+| 0 | 1 | 1 | 0 | 0 || 0 | 0 |
+| 1 | 0 | 0 | 0 | 0 || 0 | 0 |
+| 1 | 0 | 1 | 0 | 0 || 0 | 0 |
+| 1 | 1 | 0 | 0 | 0 || 0 | 0 |
+| 1 | 1 | 1 | 0 | 0 || 0 | 0 |
+
 
 ===> kod (vložení)
 
