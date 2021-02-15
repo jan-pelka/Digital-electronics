@@ -26,7 +26,7 @@ a můj repozitář pro předmět BPC-DE1 naleznete [ZDE](https://github.com/jan-
 
 Máme problém
 
-(images/rce 1.png "Logo Title Text 1")
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%201.png "Logo Title Text 1")
 
 ===> RCE 1
 
