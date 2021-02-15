@@ -13,9 +13,7 @@ a můj repozitář pro předmět BPC-DE1 naleznete [ZDE](https://github.com/jan-
 
 ### EDA Playground
 
-#### 1
-
-Máme problém
+Máme logickou funkci:
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%201.png "Logo Title Text 1")
 
@@ -32,15 +30,11 @@ který má tuto pravdivostní tabulku
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
-#### 2
-
 a tuto rovnici můžeme řešit i za výhradné pomoci hradla NAND
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/rce%202.png "Logo Title Text 1")
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/NAND.jpg "Logo Title Text 1")
-
-#### 3
 
 výhradní hradlo NOR
 
@@ -49,8 +43,6 @@ výhradní hradlo NOR
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/01-gates/img/NOR.png "Logo Title Text 1")
 
-
-#### 4
 
 problém je řešen i za pomoci EDA Playground
 
