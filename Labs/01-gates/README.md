@@ -88,8 +88,6 @@ end architecture dataflow;
 
 ### Distribuční zákony
 
-#### 1
-
 Ověření platnosti Distribučních zákonů budeme realizovat za pomoci EDA Playgroud
 
 uvedem příklad distribučních zákonů
