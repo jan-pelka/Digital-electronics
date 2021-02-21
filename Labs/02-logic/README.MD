@@ -51,11 +51,11 @@ SoP a nebo PoS
 
 například můžeme uvést zjednodušený SoP ze sloupce B > A
 
-==> FCE1
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/RCE1.jpg "Logo Title Text 1")
 
 a nebo zjednodušený PoS ze sloupce B < A
 
-==> FCE2
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/RCE2.jpg "Logo Title Text 1")
 
 dále problematiku simulujeme na EDA Playgroud kde můžeme projekt
 nalézt na [ZDE](https://edaplayground.com/x/EFDv)
