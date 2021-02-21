@@ -58,7 +58,7 @@ a nebo zjednodušený PoS ze sloupce B < A
 ==> FCE2
 
 dále problematiku simulujeme na EDA Playgroud kde můžeme projekt
-nalézt na "ZDE" https://edaplayground.com/x/EFDv
+nalézt na [ZDE](https://edaplayground.com/x/EFDv)
 
 
 ### 4 Bitový Vstup
@@ -239,4 +239,4 @@ Finding VCD file...
 Done
 ```
 
-odkaz na Playground naleznete "ZDE"
+odkaz na Playground naleznete [ZDE](https://edaplayground.com/x/JYZ8)
