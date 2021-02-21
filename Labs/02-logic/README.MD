@@ -34,15 +34,15 @@ Karnaughovy mapy
 
 pro funkci  B > A
 
-==> MAPA1
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/mapa1.jpg "Logo Title Text 1")
 
 pro funkci  B = A
 
-==> MAPA2
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/mapa2.jpg "Logo Title Text 1")
 
 pro funkci  B < A
 
-==> MAPA3
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/mapa3.jpg "Logo Title Text 1")
 
 u těchto map můžeme napsat jejich logickou funkci a to Buďto
 SoP a nebo PoS
@@ -55,7 +55,7 @@ například můžeme uvést zjednodušený SoP ze sloupce B > A
 
 a nebo zjednodušený PoS ze sloupce B < A
 
-![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/RCE2.jpg "Logo Title Text 1")
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/02-logic/img/RCE21.jpg "Logo Title Text 1")
 
 dále problematiku simulujeme na EDA Playgroud kde můžeme projekt
 nalézt na [ZDE](https://edaplayground.com/x/EFDv)
