@@ -77,7 +77,7 @@ stimulus proces:
     end process p_stimulus;
 ```
 OBRAZEK:
-https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TASK2.png
 
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TASK2.png "Logo Title Text 1")
 
 TUTORIAL:
