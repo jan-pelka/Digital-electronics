@@ -76,5 +76,8 @@ stimulus proces:
         wait;
     end process p_stimulus;
 ```
+OBRAZEK:
+https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TASK2.png
 
-==> obrázek
+
+TUTORIAL:
