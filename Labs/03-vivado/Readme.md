@@ -1,6 +1,6 @@
-# ![alt text](https://github.com/jan-pelka/Digital-electronics "Logo Title Text 1")
+# ![Digital-electronics](https://github.com/jan-pelka/Digital-electronics "Logo Title Text 1")
 
-## 03-Vivado
+## ![03-Vivado](https://github.com/jan-pelka/Digital-electronics/tree/main/Labs/03-vivado "Logo Title Text 1")
 
 ### Task 01
 
