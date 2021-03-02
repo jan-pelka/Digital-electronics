@@ -84,4 +84,4 @@ Ukazka:
 
 ### Task 03
 TUTORIAL:
-![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TUTORIAL/DE1%20CV3%20TUTORIAL.pdf "Logo Title Text 1")
+![naleznete ZDE](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TUTORIAL/DE1%20CV3%20TUTORIAL.pdf "Logo Title Text 1")
