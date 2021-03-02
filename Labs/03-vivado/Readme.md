@@ -78,7 +78,7 @@ stimulus proces:
 ```
 Ukazka:
 
-![ERR PICTURE](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/images/TASK2.png "Logo Title Text 1")
+![ERR PICTURE](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/images/TASK2.png "Prubehy TASK2")
 
 
 
