@@ -1,4 +1,4 @@
-# Digital-electronics
+# ![alt text](https://github.com/jan-pelka/Digital-electronics "Logo Title Text 1")
 
 ## 03-Vivado
 
