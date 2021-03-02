@@ -25,7 +25,7 @@
 | 14 | U11 | V12 |
 | 15 | V10 | V11 |
 
-
+### Task 02
 
 Architecture:
 ```VHDL
@@ -76,8 +76,12 @@ stimulus proces:
         wait;
     end process p_stimulus;
 ```
-OBRAZEK:
+Ukazka:
 
 ![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TASK2.png "Logo Title Text 1")
 
+
+
+### Task 03
 TUTORIAL:
+![alt text](https://github.com/jan-pelka/Digital-electronics/blob/main/Labs/03-vivado/TUTORIAL/DE1%20CV3%20TUTORIAL.pdf "Logo Title Text 1")
