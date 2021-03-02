@@ -28,7 +28,7 @@
 
 
 Architecture:
-'''VHDL
+```VHDL
 
     architecture Behavioral of mux_2bit_4to1 is
     begin
@@ -38,12 +38,12 @@ Architecture:
                 d_i;
     end Behavioral;
 
-'''
+```
 
 
 stimulus proces:
 
-'''VHDL
+```VHDL
     p_stimulus : process
     begin
         report "stimulus proces started" severity note;
@@ -75,6 +75,6 @@ stimulus proces:
         report "Stimulus process finished" severity note;
         wait;
     end process p_stimulus;
-'''
+```
 
 ==> obrázek
