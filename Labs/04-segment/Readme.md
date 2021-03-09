@@ -122,7 +122,7 @@ end Behavioral;
 ```
 
 ### TASK 02-3
-=====================OBRAZEK SIMULACE 1====================
+![Simulation](img/Sn%C3%ADmek%20obrazovky%20(244).png "Simulation")
 
 
 ### TASK 02-4
