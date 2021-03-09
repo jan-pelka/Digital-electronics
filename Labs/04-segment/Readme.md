@@ -189,8 +189,4 @@ architecture Behavioral of top is
 
 
 ### task 03-02
-
-===================OBRAZEK SIMULACE 2======================
-
-
-![Simulation](https://github.com/Matej-Podany/Digital-electronics-1/blob/main/Labs/04-segment/images/simulation2.png "Simulation")
+![Simulation](img/Sn%C3%ADmek%20obrazovky%20(245).png "Simulation")
