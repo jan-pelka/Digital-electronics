@@ -89,9 +89,9 @@ end architecture testbench;
 ```
 
 
-====> Obrazek sim oddalena
+![Simulation](img/Snímek%20obrazovky%20(258).png "Simulation")
 
-====> Obrazek sim priblizena
+![Simulation](img/Snímek%20obrazovky%20(259).png "Simulation")
 
 ### Task 3
 
@@ -137,3 +137,8 @@ end architecture testbench;
 
 ```
 
+#### 3.2
+
+![Simulation](img/obrazek%201.bmp "Simulation")
+
+![Simulation](img/obrazek%202.bmp "Simulation")
