@@ -6,10 +6,7 @@
 
 #### 1.1
 
-
-![obrazek1](imgs/wavedrom.png)
-
-====> GRAF DOOMLINES
+![obrazek1](IMGS/waveLINES.png)
 
 ### TASK 2
 
@@ -135,6 +132,10 @@ end architecture testbench;
 ```
 
 #### 2.3
+
+![obrazek1](IMGS/graf.png)
+
+
 ============> SCREEN 
 
 
@@ -203,5 +204,9 @@ end architecture Behavioral;
 ### TASK 3
 
 #### 3.1
+
+
+![obrazek1](IMGS/nakres1.jpg)
+
 
 ===> nakres
