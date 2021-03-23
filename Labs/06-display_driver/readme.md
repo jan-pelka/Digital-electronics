@@ -135,11 +135,6 @@ end architecture testbench;
 
 ![obrazek1](IMGS/graf.png)
 
-
-============> SCREEN 
-
-
-
 #### 2.4
 ```VHDL
 architecture Behavioral of top is
@@ -207,6 +202,3 @@ end architecture Behavioral;
 
 
 ![obrazek1](IMGS/nakres1.jpg)
-
-
-===> nakres
