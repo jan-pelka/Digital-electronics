@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 23 11:58:17 2021
+# Process ID: 35268
+# Current directory: C:/Users/janpe/Desktop/06-display_driver/display_driver
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26768 C:\Users\janpe\Desktop\06-display_driver\display_driver\display_driver.xpr
+# Log file: C:/Users/janpe/Desktop/06-display_driver/display_driver/vivado.log
+# Journal file: C:/Users/janpe/Desktop/06-display_driver/display_driver\vivado.jou
+#----------------------------------------------------------ssstart_guoopen_project C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.xpr
+
+launch_simulation

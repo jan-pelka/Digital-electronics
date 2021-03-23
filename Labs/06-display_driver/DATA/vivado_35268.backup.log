@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 23 11:58:17 2021
+# Process ID: 35268
+# Current directory: C:/Users/janpe/Desktop/06-display_driver/display_driver
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26768 C:\Users\janpe\Desktop\06-display_driver\display_driver\display_driver.xpr
+# Log file: C:/Users/janpe/Desktop/06-display_driver/display_driver/vivado.log
+# Journal file: C:/Users/janpe/Desktop/06-display_driver/display_driver\vivado.jou
+#----------------------------------------------------------ssstart_guoopen_project C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.xprINFO: [Project 1-313] Project file moved from 'C:/Users/Medek/DeskINFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Mar 23 11:59:56 2021...
+Default IP Output Path : Could not find the directory 'C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.gen/sources_1', nor could it be found using path 'C:/Users/Medek/Desktop/Study/DE1/DE1_cv/Digital-electronics-1/Labs/06-display_driver/display_driver/display_driver.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:33 . Memory (MB): peak = 1088.973 ; gain = 0.000
+hanges to the IP catalog. Reverting the catalog back to its previous state.
+INFO: [IP_Flow 19-2340] The IP catalog has been returned to its previous state.
+INFO: [Common 17-344] 'open_project' was cancelled
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.sim/sim_1/behav/xsim'
+invalid command name "xcs_control_pre_compile_flow"
+    while executing
+"xcs_control_pre_compile_flow a_sim_vars(b_use_static_lib)"
+    (procedure "tclapp::xilinx::xsim::setup" line 13)
+    invoked from within
+"tclapp::xilinx::xsim::setup { -simset sim_1 -mode behavioral -run_dir C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.sim/sim_1..."
+ERROR: [Vivado 12-4473] Detected error while running simulation. Please correct the issue and retry this operation.
+ERROR: [Common 17-39] 'launch_simulation' failed due to earlier errors.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Mar 23 12:04:17 2021...

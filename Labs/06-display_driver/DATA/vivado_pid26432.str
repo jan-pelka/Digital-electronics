@@ -1,0 +1,114 @@
+/*
+
+Xilinx Vivado v2020.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3064766 on Wed Nov 18 09:12:45 MST 2020
+IP Build: 3064653 on Wed Nov 18 14:17:31 MST 2020
+
+Process ID (PID): 26432
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Tue Mar 23 11:59:23 CET 2021
+Time zone: 	Central European Standard Time (Europe/Prague)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 2
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+Scale size: 19
+
+Java version: 	11.0.2 64-bit
+Java home: 	C:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2
+Java executable location: 	C:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	janpe
+User home directory: C:/Users/janpe
+User working directory: C:/Users/janpe/Desktop/06-display_driver/display_driver
+User country: 	CZ
+User language: 	cs
+User locale: 	cs_CZ
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2020.2
+RDI_DATADIR: C:/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: C:/Users/janpe/AppData/Roaming/Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: C:/Users/janpe/AppData/Roaming/Xilinx/Vivado/2020.2/
+Vivado layouts directory: C:/Users/janpe/AppData/Roaming/Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/janpe/Desktop/06-display_driver/display_driver/vivado.log
+Vivado journal file location: 	C:/Users/janpe/Desktop/06-display_driver/display_driver/vivado.jou
+Engine tmp dir: 	C:/Users/janpe/Desktop/06-display_driver/display_driver/.Xil/Vivado-26432-DESKTOP-4JI8JD2
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: C:/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2020.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	131 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,054 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// WARNING: HEventQueue.dispatchEvent() is taking  1511 ms.
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 75 MB (+75962kb) [00:00:52]
+// [Engine Memory]: 1,054 MB (+953293kb) [00:00:52]
+// bz (cr):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\janpe\Desktop\06-display_driver\display_driver\display_driver.xpr. Version: Vivado v2020.2 
+// Tcl Message: open_project C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.xpr 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,054 MB. GUI used memory: 54 MB. Current time: 3/23/21, 11:59:24 AM CET
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/janpe/Desktop/06-display_driver/display_driver/display_driver.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/Medek/Desktop/Study/DE1/DE1_cv/Digital-electronics-1/Labs/06-display_driver/display_driver' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 92 MB (+13826kb) [00:01:19]
+// [GUI Memory]: 104 MB (+8420kb) [00:01:23]
+// WARNING: HEventQueue.dispatchEvent() is taking  9951 ms.
+selectButton(RDIResource.ProgressDialog_CANCEL, "Cancel"); // a
+// Tcl Message: open_project: Time (s): cpu = 00:00:33 ; elapsed = 00:00:33 . Memory (MB): peak = 1088.973 ; gain = 0.000 
+// [GUI Memory]: 112 MB (+2676kb) [00:01:27]
+// Project name: display_driver; location: C:/Users/janpe/Desktop/06-display_driver/display_driver; part: xc7a50ticsg324-1L
+dismissDialog("Open Project"); // bz
