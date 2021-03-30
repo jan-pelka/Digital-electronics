@@ -114,6 +114,8 @@ p_d_latch : process(en, d, arst)
 
 ==> obrázek simulace
 
+![obrazek1](IMGS/1.png)
+
 ### TASK 3
 
 #### 3.1.1 - D-FlipFlop-arst 
@@ -187,7 +189,7 @@ p_d_latch : process(en, d, arst)
 
 #### 3.1.3 - D-FlipFlop-arst
 
-==> obrazek simulace 2
+![obrazek1](IMGS/2.png)
 
 
 #### 3.2.1 - p_d_ff_rst
@@ -260,7 +262,7 @@ p_d_latch : process(en, d, arst)
 
 #### 3.2.3 - p_d_ff_rst
 
-==> Obrázek simulace 3
+![obrazek1](IMGS/3.png)
 
 
 #### 3.3.1 - p_jk_ff_rst
@@ -375,7 +377,7 @@ p_d_latch : process(en, d, arst)
 
 #### 3.3.3 - p_jk_ff_rst
 
-==> obrázek simulace 4
+![obrazek1](IMGS/4.png)
 
 
 #### 3.4.1. - p_t_ff_rst
@@ -481,10 +483,10 @@ p_d_latch : process(en, d, arst)
 
 #### 3.4.3. - p_t_ff_rst
 
-==> obrazek 5
+![obrazek1](IMGS/5.png)
 
 
 
 #### TASK 4 - PICTURE
 
-==> OBRAZEK 6
+![obrazek1](IMGS/SCHEMATIC%207-6.png)
