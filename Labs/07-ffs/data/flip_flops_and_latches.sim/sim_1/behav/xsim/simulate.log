@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: Stimulus process started. 
+Time: 0 ps  Iteration: 0  Process: /tb_t_ff_rst/p_stimulus  File: C:/Users/janpe/Desktop/DE/Labs/07-ffs/flip_flops_and_latches/flip_flops_and_latches.srcs/sim_1/new/tb_t_ff_rst.vhd
+Note: Stimulus process ended. 
+Time: 100 ns  Iteration: 0  Process: /tb_t_ff_rst/p_stimulus  File: C:/Users/janpe/Desktop/DE/Labs/07-ffs/flip_flops_and_latches/flip_flops_and_latches.srcs/sim_1/new/tb_t_ff_rst.vhd
