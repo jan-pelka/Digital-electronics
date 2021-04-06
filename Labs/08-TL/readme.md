@@ -16,7 +16,7 @@
 
 #### 1.2
 
-===> obr diody
+![obrazek1](IMGS/OBR2.png)
 
 #### 1.3
 
@@ -29,7 +29,7 @@
 
 #### 2.1
 
-==> obr1
+![obrazek1](IMGS/OBR1.png)
 
 
 #### 2.2
@@ -261,7 +261,7 @@ end architecture testbench;
 
 #### 2.3
 
-===> simulace 1
+![obrazek1](IMGS/sim1.png)
 
 
 ### TASK 3
@@ -280,7 +280,7 @@ end architecture testbench;
 
 #### 3.2
 
-==> obrazek kolecka
+![obrazek1](IMGS/OBR1.png)
 
 #### 3.3
 
